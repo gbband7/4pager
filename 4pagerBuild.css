@@ -1,0 +1,55 @@
+#navbarNav{
+padding-right: 4rem;
+justify-content: right;
+}
+
+.hyrda3P{
+    text-align: center;
+    margin: auto;
+    padding: ;
+}
+
+.testAlign{
+    text-align: center;
+}
+
+p{
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+
+.hydraPic{
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+    width: 50%;
+}
+
+fieldset{
+        border: 1px solid;
+        width: 400px;
+        margin:auto;
+}
+
+.hydraList{
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+    width: 50%;
+}
+
+.threeAcross{
+    flex-direction: row;
+    margin-left: 150px;
+}
+
+.twoDown{
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.colorTry{
+    background-color: #a3b18a;
+}
